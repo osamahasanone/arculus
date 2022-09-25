@@ -34,3 +34,13 @@ To make the ball move randomly after each reset, update the constants file with:
 ```
 BALL_ENABLE_RANDOM_MOVEMENT = True
 ```
+
+
+To move left paddel, use q and z
+
+To move right paddel, use o and m
+
+To move bottom paddel, use r and t
+
+To move top paddel, use v and b
+
